@@ -1,2 +1,2 @@
-# Ola
-Web star
+#bolson college
+a school website 
